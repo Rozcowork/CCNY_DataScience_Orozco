@@ -2,7 +2,7 @@
 This repository is to keep track of my simple python coding activities along with their reflections. 
 
 ## Files
-- Activities
+- Notebooks
 - Reflections
 
 
