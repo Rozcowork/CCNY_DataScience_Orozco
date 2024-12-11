@@ -8,5 +8,7 @@ This repository is to keep track of my simple python coding activities along wit
 
 ## Digital Exhibit Link
 https://conifer.rhizome.org/Rozcowork/understanding-superheroes
+
+
 Feel free to have a look around and explore my code :)
 
